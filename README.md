@@ -3,7 +3,7 @@
 ### Clone the project
 
 ```
-git clone 
+git clone https://github.com/mahfuz110244/bongo-python-code-test.git
 cd bongo-python-code-test/
 ```
 
